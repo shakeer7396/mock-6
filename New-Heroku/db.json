@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "name": "Chandra",
+      "name": "Chand",
       "age": 29,
       "place": "Visakhapatnam",
       "batch_name": "WEB-21",
@@ -10,7 +10,7 @@
     },
     {
       "id": 1,
-      "name": "Nrupul",
+      "name": "Nrup",
       "age": 32,
       "place": "Vijayawada",
       "batch_name": "WEB-18",
