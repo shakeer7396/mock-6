@@ -1,33 +1,15 @@
 {
-  "cars": [
+  "hotels":[
     {
-      "id": 1,
-      "brand": "Tata",
-			"type":"Manual",
-      "year": 2019,
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
-    },
-    {
-      "id": 2,
-      "brand": "Tata",
-			"type":"AMT",
-      "year": 2017,
-      "kms": 8000,
-      "Description": "Tata Nexon with all original documents",
-      "Price": 800000
-    }
-  ],
-  "wishlisted_cars": [
-    {
-      "id": 1,
-      "brand": "Tata",
-      "year": 2019,
-			"type":"Manual",
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
+      "id":1,
+      "category": "family",
+      "image_url": "https://www.gannett-cdn.com/-mm-/05b227ad5b8ad4e9dcb53af4f31d7fbdb7fa901b/c=0-64-2119-1259/local/-/media/USATODAY/USATODAY/2014/08/13/1407953244000-177513283.jpg",
+      "type_of_room": "Ac",
+      "bed_type": "single",
+      "no_of_persons":"2",
+      "capacity":"300",
+      "cost":"6000",
+      "booked":false
     }
   ]
 }
